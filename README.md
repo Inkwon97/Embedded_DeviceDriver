@@ -9,5 +9,5 @@
 <br>
 
 #### 시연
-1. [Embedded DeviceDriver_phase1](https://studio.youtube.com/video/xaJ_y8h_Z1M/edit)
-2. [Embedded DeviceDriver_phase2](https://studio.youtube.com/video/ymilOZrMUNg/edit)
+1. [Embedded DeviceDriver_phase1](https://youtu.be/xaJ_y8h_Z1M)
+2. [Embedded DeviceDriver_phase2](https://youtu.be/ymilOZrMUNg)
