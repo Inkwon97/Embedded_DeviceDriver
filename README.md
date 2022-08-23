@@ -13,6 +13,8 @@
 2. [Embedded DeviceDriver_phase2](https://youtu.be/ymilOZrMUNg)
 <br>
 
-##### phase2
-<img width="80%" src="https://user-images.githubusercontent.com/80199125/186275718-9611f233-491e-47a5-98a6-8043103187db.gif">
+
+https://user-images.githubusercontent.com/80199125/186279604-bbd33e96-c69a-4aa0-8887-716b5a20edc6.mp4
+
+
 
