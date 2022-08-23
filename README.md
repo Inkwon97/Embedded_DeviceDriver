@@ -11,3 +11,8 @@
 #### 시연
 1. [Embedded DeviceDriver_phase1](https://youtu.be/xaJ_y8h_Z1M)
 2. [Embedded DeviceDriver_phase2](https://youtu.be/ymilOZrMUNg)
+<br>
+
+##### phase2
+<img width="80%" src="https://user-images.githubusercontent.com/80199125/186275718-9611f233-491e-47a5-98a6-8043103187db.gif">
+
